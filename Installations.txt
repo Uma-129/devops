@@ -1,0 +1,11 @@
+Download gitbash.
+install the gitbash and finish the setup.
+Go to search bar and check git.
+Open git and check the version using the command git --version
+create a folder in cdrive named devops
+execute the following command in the next step after creating the folder
+cd c:
+cd devops
+mkdir uma
+cd uma
+git init
